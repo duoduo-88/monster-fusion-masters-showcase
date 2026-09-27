@@ -16,6 +16,34 @@ Monster Fusion Masters is an original competitive strategy board game. I designe
 - Spectator mode and a beginner tutorial
 - English and Traditional Chinese interface
 
+## Interface tour
+
+These screenshots were captured from a local demo session with sample player and room data. The live interface may change as the game develops.
+
+### Lobby
+
+![Lobby showing player stats, ranked matchmaking, room list, and online players](assets/lobby.png)
+
+The lobby brings the main ways to play together. Check your rating, win rate, season rank, and leaderboard; find a ranked match; or create, join, and watch rooms. The player panel also links to replays, the guided tutorial, and the Color Lab, while the right side lists players currently online.
+
+### Room
+
+![Room showing player and spectator slots, color choices, invite QR code, and match controls](assets/room.png)
+
+Rooms support up to four players plus spectators. Share the room code, invitation link, or QR code; choose a player color; and set the turn timer. The host can add a CPU opponent and start the match when the room is ready.
+
+### Color Lab
+
+![Color Lab showing its palette library, pattern controls, color code, and preview board](assets/color-lab.png)
+
+Design a player color with a pattern, base and accent colors, and fine controls such as size, angle, and texture. Try it on the practice board, save it to your local palette library, or copy and load a color code to share the design.
+
+### Battle
+
+![Battle showing the hex board, tile hand, player scores, deck, and game log](assets/battle.png)
+
+The battle screen centers on a 61-cell hex board. Select a tile from your hand, rotate it, preview a placement, and place it on a legal cell. The side panel tracks the deck, player scores, and game log; the top of the board shows the round and turn.
+
 ## Build process
 
 ### 1. Original tabletop game — 2020
@@ -74,5 +102,5 @@ The examples in this folder are small, general-purpose demonstrations. They are 
 
 ## Showcase assets
 
-The `assets/` folder contains the showcase cover. Additional gameplay screenshots or a photo of the physical edition can be added later.
+The `assets/` folder contains the showcase cover and the four interface screenshots used above. A photo of the original physical edition can be added later.
 

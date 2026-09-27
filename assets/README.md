@@ -1,12 +1,14 @@
 # Showcase assets
 
-The project owner can add more images here later. The supplied showcase cover is included as `showcase-cover.png`.
+The README files use these images:
 
-Suggested assets:
+| File | Content |
+| --- | --- |
+| `showcase-cover.png` | Project cover |
+| `lobby.png` | Account, ranked matchmaking, rooms, and online players |
+| `room.png` | Player and spectator slots, colors, invitation, and match controls |
+| `color-lab.png` | Palette library, color controls, code, and practice board |
+| `battle.png` | Hex board, hand, deck, scores, and game log |
 
-- `showcase-cover.png` — included; a cover image for the showcase repository or project introduction.
-- Additional gameplay screenshot — an optional clear view of the online game in play.
-- Optional physical board-game image — a photo of the original physical edition.
-
-The showcase README does not embed these files until they are added, so there are no broken image references.
+The four interface screenshots were captured in a local demo session with sample data. Their text and layout may differ from the current live game. A photo of the physical tabletop edition can be added later.
 
